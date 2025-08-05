@@ -1,6 +1,6 @@
 # 【2025/8月持续更新】ChatGPT 中文版官网：国内访问指南（支持GPT-4o、GPT-o1、GPT-o3，无需翻墙）
 
->更新时间: 2025-08-06 10:13:16
+> 更新时间: 2025-08-06 10:13:16
 > **作者：ChatGPT**  
 
 **全面体验 ChatGPT 中文版官网，支持 GPT-4,o1,o3 和多功能应用！**  
@@ -8,9 +8,9 @@
 
 **ChatGPT** 官网入口：[https://chatgpt.com](https://chatgpt.com)
 
-**ChatGPT** 中文版入口：[https://www.yixiaai.com](https://www.yixiaai.com/)
+**ChatGPT** 中文版入口：[https://xsimplechat.com](https://xsimplechat.com/)
 
-**ChatGPT** 镜像网站入口：[https://chat.lify.vip](https://chat.lify.vip/)
+**ChatGPT** 镜像网站入口：[https://chat.lanjingai.org](https://chat.lanjingai.org/)
 
 ---
 
@@ -40,11 +40,11 @@
 
 以下是我们精选的国内优质 ChatGPT 中文版镜像网站，为用户提供高效的中文访问体验：
 
-① [https://www.yixiaai.com](https://www.yixiaai.com/) 支持ChatGPT-4o以及o1，支持MJ绘画
+① [https://xsimplechat.com](https://xsimplechat.com/) 支持ChatGPT-4o以及o1，支持MJ绘画
 
 ② [https://chat.lify.vip](https://chat.lify.vip/) 支持ChatGPT最新模型，支持文件读取、插件、绘画、AIPPT
 
-③ [https://chatgpt.lanjing.ai](https://chatgpt.lanjing.ai/) 支持GPT3.5/4，4o以及MJ绘画
+③ [https://chat.lanjingai.org](https://chat.lanjingai.org/) 支持GPT3.5/4，4o以及MJ绘画
 
 ④ [https://cgn.lify.vip/](https://cgn.lify.vip)- 支持 GPT4、4o 支持 MJ 绘画
 
